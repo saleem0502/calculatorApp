@@ -4,10 +4,10 @@
 The Cool Calculator is a web application built using HTML, CSS, and JavaScript. It provides a convenient way to perform calculations quickly and easily in your web browser.
 
 # Features
-. Basic arithmetic operations: addition, subtraction, multiplication, and division.
-. Percentage calculation.
-. Clear and delete functionalities to manage your calculations.
-. User-friendly interface with responsive design.
+ Basic arithmetic operations: addition, subtraction, multiplication, and division.
+ Percentage calculation.
+ Clear and delete functionalities to manage your calculations.
+ User-friendly interface with responsive design.
 
 # Usage
 1. Enter numbers and operators by clicking the corresponding buttons.
